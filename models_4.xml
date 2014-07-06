@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entitygroups>
+
+    <entitygroup name="ZombiesAll">
+        <entity name="zombie04" prob="0.1"/>
+        <entity name="zombie05" prob="0.1"/>
+        <entity name="zombie06" prob="0.1"/>
+        <entity name="zombie07" prob="0.1"/>
+		<entity name="zombiegal01" prob="0.1"/> 
+		<entity name="zombiegal02" prob="0.1"/>
+		<entity name="zombiegal03" prob="0.1"/>
+		<entity name="zombiegal04" prob="0.1"/>
+		<entity name="fatzombie" prob="0.1"/>
+		<entity name="zombiecrawler" prob="0.1"/>		
+    </entitygroup>
+	
+    <entitygroup name="ZombiesNight">
+        <entity name="zombie04" prob="0.1"/>
+        <entity name="zombie05" prob="0.1"/>
+        <entity name="zombie06" prob="0.1"/>
+        <entity name="zombie07" prob="0.1"/>
+		<entity name="zombiegal01" prob="0.1"/> 
+		<entity name="zombiegal02" prob="0.1"/>
+		<entity name="zombiegal03" prob="0.1"/>
+		<entity name="zombiegal04" prob="0.1"/>
+		<entity name="fatzombie" prob="0.1"/>
+		<entity name="zombiecrawler" prob="0.1"/>
+    </entitygroup>	
+	
+    <entitygroup name="ZombiesHoard">
+        <entity name="zombie04" prob="0.1"/>
+        <entity name="zombie05" prob="0.1"/>
+        <entity name="zombie06" prob="0.1"/>
+        <entity name="zombie07" prob="0.1"/>
+		<entity name="zombiegal01" prob="0.1"/> 
+		<entity name="zombiegal02" prob="0.1"/>
+		<entity name="zombiegal03" prob="0.1"/>
+		<entity name="zombiegal04" prob="0.1"/>
+		<entity name="fatzombie" prob="0.1"/>
+		<entity name="fatzombiecop" prob="0.05"/>
+		<entity name="spiderzombie" prob="0.15"/>
+		<entity name="zombiecrawler" prob="0.1"/>
+    </entitygroup>
+
+  <entitygroup name="ZombiesCrawlersDogs">
+    <entity name="zombiecrawler" prob="0.1"/>
+  </entitygroup>
+
+  <entitygroup name="ZombiesBurntForest">
+    <entity name="burntzombie" prob="0.1"/>
+    <entity name="zombiecrawler" prob="0.05"/>
+  </entitygroup>
+    
+    <entitygroup name="SnowZombies">
+        <entity name="snowzombie01" prob="0.3"/>
+        <entity name="snowzombie02" prob="0.4"/>	
+        <entity name="snowzombie03" prob="0.3"/>
+    </entitygroup>    		
+	
+    <entitygroup name="ZombiesBoss">
+		<entity name="fatzombiecop" />		
+    </entitygroup>	
+
+    <entitygroup name="SpiderZombies">
+		<entity name="spiderzombie" />		
+    </entitygroup>
+	
+    <entitygroup name="ZombiesFeral">
+		<entity name="burntzombie" />
+    </entitygroup>
+
+    <entitygroup name="AnimalsSmall">
+        <entity name="animalRabbit" />
+    </entitygroup>
+    
+    <entitygroup name="AnimalsFarm">
+        <entity name="animalPig" />
+    </entitygroup>
+	
+    <entitygroup name="AnimalsBig">
+        <entity name="animalStag" />
+    </entitygroup>
+	
+    <entitygroup name="HornetGroup">
+        <entity name="hornet" />
+    </entitygroup>	
+	
+    <entitygroup name="ZombieDogGroup">
+        <entity name="zombiecrawler" />
+    </entitygroup>	
+    
+    <entitygroup name="SupplyCrates_Day1">
+        <entity name="sc_MeleeWeapons" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_General" />	
+    </entitygroup>	
+
+    <entitygroup name="SupplyCrates_Day2">
+		<entity name="sc_RangedWeapons" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_General" />		
+    </entitygroup>	
+    
+    <entitygroup name="SupplyCrates_Day3">>
+		<entity name="sc_RangedWeapons" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_Explosives" />	
+		<entity name="sc_General" />	
+    </entitygroup>	
+	
+    <entitygroup name="SupplyCrates_Day4">
+		<entity name="sc_RangedWeapons" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_Explosives" />
+		<entity name="sc_General" />
+    </entitygroup>
+	
+    <entitygroup name="SupplyCrates_Day5">
+		<entity name="sc_RangedWeaponsDay5" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_Explosives" />
+		<entity name="sc_General" />
+    </entitygroup>	
+	
+    <entitygroup name="SupplyCrates_Day6">
+		<entity name="sc_RangedWeaponsDay5" />
+		<entity name="sc_BuildingSupplies" />
+		<entity name="sc_Food" />
+		<entity name="sc_Explosives" />
+		<entity name="sc_General" />	
+    </entitygroup>	
+
+    <entitygroup name="SupplyCrates_Day7">
+		<entity name="sc_RangedWeaponsDay7" prob="0.3" />		
+		<entity name="sc_BuildingSupplies" prob="0.1"/>
+		<entity name="sc_Food" prob="0.1"/>
+		<entity name="sc_Explosives" prob="0.07"/>
+		<entity name="sc_General" prob="0.2"/>
+    </entitygroup>
+
+    <entitygroup name="SupplyCrates_General">
+		<entity name="sc_General" />		
+    </entitygroup>	
+</entitygroups>
