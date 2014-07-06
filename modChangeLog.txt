@@ -1,0 +1,17 @@
+
+
+7/6/14:
+	Model_2:
+		Drop on Destroy - Wood ladder and Forge
+		
+	Model_3:
+		Increase all Zombie health to 500
+		Decrease zombie viewing angles
+		
+	Model_4:
+		Remove hornets and dogs from spawners
+		
+	Model_5:
+		Zombies cant destroy stone,boulder,or concrete. Maybe need to add more materials
+		Damage modifier for head set to 50. Most weapons one head hit = kill.
+		Set stack to 999: shotgun shells, ingots, water, gun powder, casings, all bullets, all scrap, fishing weight?, forged iron
